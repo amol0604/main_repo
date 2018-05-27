@@ -1,0 +1,3 @@
+[submodule "sub_mod1"]
+	path = sub_mod1
+	url = https://github.com/amol0604/sub_mod1.git
